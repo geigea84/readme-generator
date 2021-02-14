@@ -1,5 +1,7 @@
 # readme-generator
 
+Original Repository: https://github.com/geigea84/professional-readme-generator
+
 [How to create a Professional README](./readme-guide.md)
 
 AS A developer
